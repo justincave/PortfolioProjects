@@ -133,3 +133,5 @@ INNER JOIN PortfolioProject..CovidVaccinations_2 vac
 where dea.continent is not null
 
 select * from PercentPopulationVacc
+
+--add something here
